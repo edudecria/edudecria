@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou @edudecria
+- 👀 Estou interessado em aprender novas linguagens de programação
+- 🌱 Estou atualmente aprendendo JavaScript e Scratch
